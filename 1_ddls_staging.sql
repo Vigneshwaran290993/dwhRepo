@@ -1,3 +1,4 @@
+--modified on 09/12
 --query
 create database stgdb;
 CREATE TABLE stgdb.stg_accounts (
